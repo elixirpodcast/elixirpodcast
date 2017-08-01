@@ -1,13 +1,17 @@
 ---
 layout: post
 title:  "Discovering Elixir and Phoenix"
-date:   2016-08-11 23:01:45 -0300
+date:   2016-08-11 23:01:44 -0300
 categories: update elixir phoenix
 description: My first impressions using Phoenix and Elixir.
 comments: true
 ---
 
-{% youtube tnq2gwBhvCc %}
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="560" height="315"
+    src="https://www.youtube.com/embed/tnq2gwBhvCc" frameborder="0"
+    allowfullscreen=""></iframe>
+</div>
 
 My first impressions using Phoenix and Elixir.
 
