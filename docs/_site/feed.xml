@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elixir Podcast</title>
-    <description>Elixir podcast
+    <title>Elixir |&gt; podcast</title>
+    <description>Visit [Elixir Developers Group](https://www.facebook.com/Elixir-Developers-1698520413809911/)
 </description>
     <link>http://elixirpodcast.com/</link>
     <atom:link href="http://elixirpodcast.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2017 23:18:16 -0300</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2017 23:18:16 -0300</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2017 23:29:16 -0300</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2017 23:29:16 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
