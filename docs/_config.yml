@@ -9,7 +9,7 @@
 title: Elixir Podcast
 email: elixir.podcast.info@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Visit Elixir Developers on facebook
+  Elixir Devs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://elixirpodcast.com" # the base hostname & protocol for your site
 twitter_username: elixir_podcast
