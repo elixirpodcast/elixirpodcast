@@ -7,6 +7,8 @@ description: My first impressions using Phoenix and Elixir.
 comments: true
 ---
 
+{% youtube tnq2gwBhvCc %}
+
 My first impressions using Phoenix and Elixir.
 
 # Installation
