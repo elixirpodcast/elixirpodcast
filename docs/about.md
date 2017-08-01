@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+type: toto
 permalink: /about/
 ---
 
@@ -20,7 +21,7 @@ You can find some interesting open source projects:
 {% include icon-github.html username="cortezcristian" %} /
 [anyandgo](https://github.com/cortezcristian/anyandgo)
 
-You can find more info on courses: 
+You can find more info on courses:
 
 - Node.JS + MongoDB + Express [Polo Tecnológico Rosario](http://www.polotecnologico.net/nuevos-cursos/node-js) / [UNR](http://posgrado.fceia.unr.edu.ar/?mod=cursos&hacer=verinformatica&eventoid=3666)
 - Angular JS & Front-End technologies [Polo Tecnológico Rosario](http://www.polotecnologico.net/nuevos-cursos/angularjs)
@@ -28,4 +29,4 @@ You can find more info on courses:
 
 Interested on hackathons?
 
-- [EmprenDevs](http://emprendevs.com/): the hackathon for devs with entrepreneurial spirit 
+- [EmprenDevs](http://emprendevs.com/): the hackathon for devs with entrepreneurial spirit
