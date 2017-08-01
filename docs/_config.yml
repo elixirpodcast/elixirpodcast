@@ -20,3 +20,5 @@ markdown: kramdown
 
 # Extra
 exclude: [README.md, package.json, bower.json, Gruntfile.js, node_modules, .bowerrc, bower_components]
+
+theme: jekyll-theme-cayman
